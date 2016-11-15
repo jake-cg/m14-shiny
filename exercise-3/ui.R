@@ -1,3 +1,7 @@
+library(plotly)
+library(shiny)
+library(dplyr)
+
 # ui.R
 shinyUI(fluidPage(
   mainPanel(
